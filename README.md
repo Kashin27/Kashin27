@@ -6,20 +6,20 @@
   </a>
 </p>
 
-<p align="center">
-    <img src="https://bee-reg-ab.imagency.cn/mr/4800/26/6acb263986221.jpg" width="30%" />
+<p align="center" >
+  <img src="https://bee-reg-ab.imagency.cn/mr/4800/26/6acb263986221.jpg" width="30%' />
 </p>
+
+---
 
 ### 👨‍💻 About Me
 
 - 🎓 Junior majoring in Software Engineering at XJTU (Xi'an Jiaotong University)
 - 🔭 Currently focused on **Backend Development** and **Agent Development**
 - 🌱 Learning: backend architecture, distributed systems, LLM agents & RAG
-- 💡 Interested in building scalable services and intelligent agent systems
 - 📍 Based in Xi'an, China
-- 💬 Ask me about: Java / Kotlin / Node.js / Backend / Agent
-- ⚡ Fun fact: I love turning ideas into working products
 
+---
 
 ### 🛠 Languages and tools
 
@@ -32,17 +32,34 @@
 
 **Frameworks & Runtime**
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Middleware & Infra**
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apacherocketmq&logoColor=white)
+![Nacos](https://img.shields.io/badge/Nacos-2F6FE4?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C7202E?style=for-the-badge&logo=minio&logoColor=white)
+![Canal](https://img.shields.io/badge/Canal-1E90FF?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & DevOps**
 
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
@@ -55,14 +72,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashin27&hide_border=true" height="160" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kashin27&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 ---
