@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" >
-  <img src="https://bee-reg-ab.imagency.cn/mr/4800/26/6acb263986221.jpg" width="30%' />
+  <img src="https://bee-reg-ab.imagency.cn/mr/4800/26/6acb263986221.jpg" width="30%" />
 </p>
 
 ---
