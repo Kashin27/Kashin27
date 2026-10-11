@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-    <img src="https://bee-reg-ab.imagency.cn/mr/4800/26/6acb263986221.jpg" width="50%" />
+    <img src="https://bee-reg-ab.imagency.cn/mr/4800/26/6acb263986221.jpg" width="30%" />
 </p>
----
 
 ### 👨‍💻 About Me
 
@@ -19,7 +18,6 @@
 - 📍 西安 / Xi'an
 - 💬 可以和我聊聊：Java /  Node.js / 后端 / Agent
 
----
 
 ### 🛠 Languages and tools
 
