@@ -12,11 +12,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 西安交通大学 · 软件工程大三 / XJTU Software Engineering, Junior
-- 🔭 目前专注于 **后端开发** 与 **Agent 开发**
-- 🌱 正在学习：后端架构、Agent 相关技术
-- 📍 西安 / Xi'an
-- 💬 可以和我聊聊：Java /  Node.js / 后端 / Agent
+- 🎓 Junior majoring in Software Engineering at XJTU (Xi'an Jiaotong University)
+- 🔭 Currently focused on **Backend Development** and **Agent Development**
+- 🌱 Learning: backend architecture, distributed systems, LLM agents & RAG
+- 💡 Interested in building scalable services and intelligent agent systems
+- 📍 Based in Xi'an, China
+- 💬 Ask me about: Java / Kotlin / Node.js / Backend / Agent
+- ⚡ Fun fact: I love turning ideas into working products
 
 
 ### 🛠 Languages and tools
